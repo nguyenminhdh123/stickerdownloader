@@ -1,1 +1,4 @@
-[{"dsa.com.father":"link1"},{"dsa.com.filter":"link2"},{"sticker":["01. Butterfly","02. Heart"]}]
+[{"dsa.com.father":"link1","sticker":["01. Butterfly","02. Heart"]},
+{"dsa.com.filter":"link2","sticker":["01. Butterfly","02. Heart"]},
+{"sticker":["01. Butterfly","02. Heart"]}]
+
