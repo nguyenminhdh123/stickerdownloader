@@ -1,4 +1,2 @@
-[{"dsa.com.father":"link1","sticker":["01.Butterfly123","02.Heart123"]},
-{"dsa.com.filter":"link2","sticker":["01.Butterfly111","02.Heart111"]},
-{"sticker_common":["01.Butterfly","02.Heart"]}]
-
+[{"dsa.com.filter":{"link":"asdf.com","sticker":["Butterfly123","Heart123"]}},{"dsa.com.father":{"link":"father.com","sticker":["Butterfly111","Heart11"]}},
+{"common":{"link":"commondownload","sticker":["Butterfly","Love Heart"]}}]
