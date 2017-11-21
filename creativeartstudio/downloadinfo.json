@@ -1,3 +1,3 @@
 [{"dsa.com.filter":{"folder":"asdf.com","sticker":["Butterfly123","Heart123"]}},
 {"dsa.father.day.photo.frame":{"folder":"father_day_app","sticker":["Black And White","Women Hair"]}},
-{"common":{"folder":"commondownload","sticker":[{"name":"Butterfly", "type":"free"},{"name":"Love Heart", "type":"new"},{"name":"Fish","type":"premium"}],"frame":[{"name":"Valentine", "type":"free"},{"name":"Father","type":"new"},{"name":"Mother", "type":"premium"},{"name":"Halloween", "type":"premium"}]}}]
+{"common":{"folder":"commondownload","sticker":[{"name":"Butterfly", "type":"0"},{"name":"Love Heart", "type":"1"},{"name":"Fish","type":"2"}],"frame":[{"name":"Valentine", "type":"0"},{"name":"Father","type":"1"},{"name":"Mother", "type":"2"},{"name":"Halloween", "type":"2"}]}}]
